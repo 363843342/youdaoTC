@@ -1,0 +1,15 @@
+{"format":"wav","errorCode":"0","session_time":{},"result":[],"requestId":"56adf0c0-ce90-4048-9247-aa2f32cb9e39","action":"started","fisrtFrame":true}
+send audio success
+send audio success
+send audio success
+send audio success
+send audio success
+send audio success
+send audio success
+send audio success
+send audio success
+send audio success
+send audio success
+send audio success
+send audio success
+send audio success
