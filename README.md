@@ -14,9 +14,9 @@ BTW：每个帐号每天有1小时的免费使用时间。
 6、每当免费使用时间用完时，重新运行main.exe
 
 ## :yum: 使用前
-![](pic/begin.png)
+![](pic/begin.jpg)
 
 ## :yum: 使用后
-![](pic/end.png)
+![](pic/end.jpg)
 
 
